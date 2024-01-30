@@ -25,7 +25,7 @@ AI ArtStock Automator is a state-of-the-art automation system designed to create
 (Note: Provide a general overview of the setup and execution process here, without revealing any source code.)
 
 ## License
-Copyright [Year] [Your Name]. All rights reserved. The source code of this project is not available for public use.
+Copyright 20024, Moritz Knape. All rights reserved. The source code of this project is not available for public use.
 
 ## Contact
 For more information, collaborations, or inquiries, please reach out to me at [Your Contact Information].
