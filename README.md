@@ -64,7 +64,7 @@ This setup exemplifies a comprehensive understanding and application of Python f
 Copyright 20024, Moritz Knape. All rights reserved. The source code of this project is not available for public use.
 
 ## Contact
-For more information, collaborations, or inquiries, please reach out to me at [Your Contact Information].
+For more information, collaborations, or inquiries, please reach out to me at info@moritzknp.de.
 
 ---
 
